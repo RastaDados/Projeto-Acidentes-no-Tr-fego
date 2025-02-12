@@ -4,6 +4,8 @@
 
 Este projeto foi desenvolvido para analisar dados sobre acidentes no tráfego, também conta com um modelo de Machine Learning para predição de acidentes graves e pontos perigosos em vias, afim de diminuir os acidentes.
 
+<h2><a href="https://app.powerbi.com/groups/me/reports/bc09f9c8-69db-40b2-9d6a-bc3b3c962fd0/1d1932d1387312202d68?experience=power-bi"> Acesse o Dashboard aqui </a></h2>
+
 <hr>
 <br>
 
